@@ -1,5 +1,4 @@
 #include "feature_tracker.h"
-//猜猜我是谁？
 //FeatureTracker的static成员变量n_id初始化为0
 int FeatureTracker::n_id = 0;
 
